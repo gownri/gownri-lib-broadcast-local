@@ -10,4 +10,8 @@
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Module\" />
+  </ItemGroup>
+
 </Project>

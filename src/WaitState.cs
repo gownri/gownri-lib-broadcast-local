@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace ReadableLocal;
+namespace BroadcastLocal;
 
 internal sealed class WaitState : IDisposable
 {

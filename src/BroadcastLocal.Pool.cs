@@ -4,12 +4,12 @@ using System;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 using System.Threading;
+using BroadcastLocal;
 using LentCount = byte;
 using TopIndex = byte;
 using UPoolCount = byte;
 using UTopIndex = byte;
-
-namespace ReadableLocal;
+namespace Gownri;
 
 
 internal class GlobalTLSReadableLocal<T>
